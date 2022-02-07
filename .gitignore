@@ -8,3 +8,10 @@ build/
 
 # Java
 *.class
+
+# eclipse/vscode
+.settings/
+bin/
+tmp/
+.classpath
+.project
